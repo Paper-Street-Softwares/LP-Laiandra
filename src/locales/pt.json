@@ -26,33 +26,33 @@
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ÁREAS DE ATUAÇÃO",
+    "title": "Atendimento jurídico claro e especializado",
+    "subtitle": "Serviços voltados a direitos previdenciários, sucessórios e consultoria sob medida.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Previdenciário",
+      "subtitle": "Apoio em benefícios do INSS e revisão de aposentadorias.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Benefícios por Incapacidade",
+      "subtitle": "Solicitação e defesa em auxílio-doença e invalidez.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Sucessório",
+      "subtitle": "Planejamento e partilha justa de bens em heranças.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Consultoria Jurídica",
+      "subtitle": "Análise preventiva e soluções sob medida para você.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
