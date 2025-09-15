@@ -14,10 +14,11 @@ export default function ListGroupSocial({
 
   useEffect(() => {
     // IDs do menu (mesma ordem do pt.json)
-    const allIds = ["home", "service", "about", "faq", "maps"];
+    const allIds = ["home", "service", "about", "blog", "faq", "maps"];
 
     // Pega labels direto do pt.json via i18next
     const allLabels = t("navbar.menuItems", { returnObjects: true });
+    ``;
 
     // Cria array com id + label
     const paired = allIds.map((id) => ({

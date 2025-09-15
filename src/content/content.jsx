@@ -56,8 +56,8 @@ export const infos = {
   domain: "laiandraviana.adv.br", // Sem "www"
   phone: {
     ddd: "66",
-    firstPart: "9014", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "A_Definir", // Apenas os 4 últimos números
+    firstPart: "9228", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "9014", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
@@ -422,7 +422,8 @@ const content = {
       minitag: "A_Definir",
       title: "A_Definir",
       subtitle: "A_Definir",
-      embedsrc: "a_Definir",
+      embedsrc:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4903.1287263526765!2d-56.0859564!3d-9.876193100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x93aa3184a34c57bf%3A0xea93ab97ef445184!2sGVS%20Advogados%20%7C%20Direito%20Previdenci%C3%A1rio%20%7C%20Direito%20do%20Tr%C3%A2nsito%20%7C%20Direito%20Civil!5e1!3m2!1spt-BR!2sbr!4v1757967002147!5m2!1spt-BR!2sbr",
     },
     about: {
       imagem: {
@@ -548,7 +549,7 @@ const content = {
       img: imgSteps,
       labelCards: "Ver mais",
       label: "Clique aqui para ver todas as matérias",
-      blogLink: "A_Definir", //sem "https://"
+      blogLink: "laiandraviana.wordpress.com", //sem "https://"
     },
     faq: {
       miniTag: "TIRE SUAS DÚVIDAS",
