@@ -83,19 +83,19 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É A DRA. LAIANDRA VIANA LEITE",
+    "title": "Minha trajetória",
+    "subtitle": "Uma carreira dedicada a transformar vidas com justiça e acolhimento humano.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "A_Definir",
-    "modal": "a_Definir",
+    "paragraph": "Quando iniciei minha caminhada no Direito, descobri no previdenciário mais do que cálculos e prazos: encontrei uma forma de promover justiça social. Cada caso é único e carrega uma história de esforço e dedicação.",
+    "modal": "Quando iniciei minha caminhada no Direito, descobri no previdenciário mais do que cálculos e prazos: encontrei uma forma de promover justiça social. Cada caso é único e carrega uma história de esforço e dedicação. <br/> <br/> Ao lado de trabalhadores, aposentados e famílias, percebi que minha missão é acolher, ouvir e lutar para que cada direito seja reconhecido. Não se trata apenas de processos, mas de vidas que podem ser transformadas. <br/> <br/> Com estudo constante e empatia, sigo firme na advocacia. Cada benefício conquistado representa esperança, dignidade e alívio de quem tanto trabalhou e agora precisa ter sua segurança respeitada. <br/> <br/>",
     "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
-      "miniTag": "A_Definir",
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "labelInstagram": "A_Definir",
+      "miniTag": "REDES SOCIAIS",
+      "title": "Conecte-se agora mesmo",
+      "subtitle": "Aproveite nossas redes sociais para mantermos contato e ficar por dentro de atualizações importantes no mundo do direito.",
+      "labelInstagram": "Siga-nos no Instagram",
       "labelFacebook": "A_Definir",
       "labelLinkedin": "A_Definir",
       "labelX": "A_Definir"
