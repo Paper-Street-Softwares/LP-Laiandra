@@ -30,9 +30,8 @@ export default function FooterSocial({ colorMode, addres, obs, mode }) {
       textColor = "text-black";
       break;
     default:
-      footerBackground =
-        "bg-gradient-to-b from-bgSectionDark to-black bg-cover bg-center bg-no-repeat";
-      textColor = "text-white";
+      footerBackground = "bg-white";
+      textColor = "text-black";
       break;
   }
 
@@ -65,7 +64,7 @@ export default function FooterSocial({ colorMode, addres, obs, mode }) {
                 <div className="mt-2 opacity-90">
                   <div className="flex gap-[10px] items-center">
                     <FooterSocialIcons
-                      instagram={false}
+                      instagram={true}
                       facebook={false}
                       linkedin={false}
                       tiktok={false}
