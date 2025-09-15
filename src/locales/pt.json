@@ -17,12 +17,12 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADA PREVIDENCIÁRIA E SUCESSÓRIA",
+    "title": "Direitos esquecidos <span class=\"text-primary font-bold\">custam caro</span>",
+    "subtitle": "Aposentadoria negada? Herança travada? Seus direitos podem estar em risco agora.",
+    "ctaButtonText": "Quero proteger meus direitos",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento online para todo Brasil"
     }
   },
   "features": {
@@ -89,7 +89,7 @@
     "buttonModalLabelAbout": "Continuar lendo",
     "paragraph": "A_Definir",
     "modal": "a_Definir",
-    "ctaButtonAriaLabel": "",
+    "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
       "miniTag": "A_Definir",
